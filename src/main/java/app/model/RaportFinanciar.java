@@ -49,7 +49,8 @@ public class RaportFinanciar {
                         "Sold TVA:            %.2f RON",
                 dataStart, dataFinal,
                 totalVanzariBaza,
-                (totalVanzariBaza - totalProfit), // Costul marfii                totalProfit,
+                (totalVanzariBaza - totalProfit), // Costul marfii
+                totalProfit,
                 totalCheltuieliBaza,
                 totalTvaColectat,
                 totalTvaDeductibil,
